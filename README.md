@@ -32,3 +32,12 @@ Description:
 
 
 """
+
+## Testing
+Any Changes must run through internat testing script to ensure validaty of the changes in runtime and against real data.
+
+### Requirements
+Python 3 must be installed
+
+### Execution
+Run the test command line through python3 git-practive/tests/eval-all.py
